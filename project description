@@ -1,0 +1,35 @@
+Project Title: Java Bank Management System
+
+Project Description:
+Create a Java application for managing bank accounts and transactions. Users should be able to create accounts, deposit and withdraw funds, check balances, and view transaction history.
+
+Functional Requirements:
+
+User Registration:
+
+Allow customers to register by providing their name, address, and initial deposit amount.
+Generate a unique account number for each customer.
+Account Management:
+
+Implement different types of accounts (e.g., savings, checking).
+Allow customers to deposit and withdraw funds from their accounts.
+Calculate and display account balances.
+Provide an option to close an account.
+Transaction History:
+
+Maintain a transaction history for each account, including date, transaction type (deposit/withdrawal), and amount.
+Admin Panel:
+
+Implement an admin panel for bank staff to manage customer accounts.
+Admins should be able to view all accounts, search for accounts by name or account number, and close accounts if necessary.
+Technical Implementation:
+
+Use Object-Oriented Programming (OOP) principles to model customers, accounts, and transactions as Java classes.
+
+Use data structures like ArrayLists or HashMaps to store and manage customer accounts and transaction records.
+
+Implement a user-friendly command-line interface (CLI) or a graphical user interface (GUI) for customers and the admin panel.
+
+Use exception handling to handle errors gracefully, such as insufficient funds during withdrawals.
+
+Implement proper data validation to ensure the integrity of customer information and transactions.
